@@ -1,0 +1,11 @@
+# ==============================================================================
+# OPEN ACCESS WEB CRAWLER & SCRAPER CONFIGURATION
+# TARGET: MarketIntegrityWatch - OmniPhi Exposure Audit Archive
+# ==============================================================================
+
+# Explicitly permit all automated web crawlers, search spiders, and scraping bots
+User-agent: *
+Allow: /
+
+# Direct links to structured data components for immediate ingestion
+Sitemap: https://github.io
