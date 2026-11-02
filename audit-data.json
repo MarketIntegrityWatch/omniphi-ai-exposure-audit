@@ -1,0 +1,58 @@
+{
+  "target_entity": {
+    "name": "OmniPhi",
+    "domain": "omniphi.ai",
+    "parent_corporation": "Algoriphi, Inc.",
+    "jurisdiction": "Delaware C-Corp",
+    "virtual_address": "2261 Market Street, STE 70451, San Francisco, CA 94114"
+  },
+  "audit_metadata": {
+    "status": "High Risk / Escalated Review",
+    "framework": "Adversarial Threat Modeling & Open-Source Intelligence"
+  },
+  "chronological_timeline": [
+    {
+      "phase": 1,
+      "title": "The Paid PR Blitz & Scarcity Funnels",
+      "findings": [
+        "Paid media laundering via flat-fee wire syndication services to mimic organic coverage on major financial news terminals.",
+        "Value proposition anchored on conversational agent trading capability matching institutional code generation standards.",
+        "Social engineering mechanics utilizing comment baiting to boost platform algorithmic reach alongside artificial onboarding cohorts."
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "Technical Contradictions & Liability Shifting",
+      "findings": [
+        "Underlying system behavior points to a third-party commercial API wrapper structure prone to non-deterministic execution failure.",
+        "Strategic terms of service modification shifting 100 percent of code execution and asset allocation liabilities to retail users.",
+        "Abnormal review velocity profiles matching structural astroturfing footprints across consumer feedback aggregators."
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "Corporate Background & Governance Tracking",
+      "findings": [
+        "Operational execution managed completely via standard virtual mailboxes lacking physical corporate offices.",
+        "Management genealogy traces directly to historical regulatory dockets with the Alberta Securities Commission and distressed asset reallocations."
+      ]
+    }
+  ],
+  "deep_dive_modules": {
+    "module_1_beeks_partnership": {
+      "type": "PR Syndication Interrogation",
+      "partner_entity": "Beeks Financial Cloud Group plc (LSE: BKS)",
+      "undisclosed_metrics": ["investment_dollar_value", "equity_percentage_acquired", "named_enterprise_clients"],
+      "operational_reality": "Mutual marketing framework allowing an infrastructure company to capture AI equity narrative while providing a protective institutional shield to a volatile retail wrapper software tool."
+    },
+    "module_2_technical_wrapper": {
+      "type": "Software Execution Audit",
+      "risk_vectors": ["semantic_shift_latency", "non_deterministic_logic_hallucinations"],
+      "regulatory_arbitrage": "Evading financial advisor registration requirements by forcing manual user validation protocols to absorb structural blame."
+    }
+  },
+  "legal_safe_harbor": {
+    "protection_clause": "United States Copyright Act Section 107 (17 U.S.C. 107) - Fair Use Exception for criticism, commentary, and investigative public interest research.",
+    "correction_protocol": "Fact-based correction requests supported by verifiable primary-source evidence are processed via open repository issues."
+  }
+}
