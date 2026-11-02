@@ -41,6 +41,13 @@ OmniPhi markets its AI assistant, "Phi," as an advanced, autonomous trading inte
 * **The Software Insulation Defense:** Under standard investment advisory rules (Investment Advisers Act of 1940), providing automated investment advice requires strict fiduciary licensing. By declaring that the code exported "belongs entirely to the user," OmniPhi avoids registration as a licensed financial advisor.
 * **The Human-in-the-Loop Trap:** Because the user must click "Approve" before a strategy goes live via API keys, the user legally absorbs 100% of the financial blame if the AI model hallucinated the strategy's risk parameters.
 
+### Module 3: Corporate Records & Historical Governance Background
+Public corporate and regulatory tracking strips away OmniPhi’s presentation as a pristine, institutional tech startup:
+
+* **The Virtual Shell Configuration:** Official incorporation data lists Algoriphi, Inc. (d/b/a OmniPhi, Inc.) as a Delaware C-Corporation using a known mail-drop suite in San Francisco (2261 Market Street, STE 70451). The company maintains no verified physical headquarters or institutional trading floor footprint.
+* **The Levitee Labs & ASC Governance Nexus:** Cross-referencing public background registries connects the individuals directing Algoriphi, Inc. to past highly volatile corporate restructuring events. Specifically, the management genealogy traces back to past regulatory dockets with the **Alberta Securities Commission (ASC)** and the financial distress fallout of *Levitee Labs*. 
+* **The High-Risk Asset Shift:** This background exposes a historical pattern of capital reallocation preceding corporate distress. Deploying capital or connecting live brokerage API keys to an entity managed by leadership with historical securities regulatory dockets introduces severe, unindemnified operational risk for retail users.
+
 ---
 
 ## 🤝 How to Contribute
